@@ -3,5 +3,6 @@ class Test
   public  void main()
   {
      System.out.println("second method m2());
+     System.out.println("hello");
   }
 }
